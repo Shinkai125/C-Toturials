@@ -1,9 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [C-Introduction](c-Introduction/README.md)
-   * [Create-C-Project](c-Introduction/create-c-project.md)
-   * [Run-Program](c-Introduction/run-program.md)
+* [C-Introduction](introduction/README.md)
+   * [Create-C-Project](introduction/create-c-project.md)
+   * [Run-Program](introduction/run-program.md)
 * [Variable-Const](variable/README.md)
    * [Identifier](variable/identifier.md)
    * [Data-Types](variable/data-types.md)
