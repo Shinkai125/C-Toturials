@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [C-Introduction](introduction/README.md)
+* [Introduction](introduction/README.md)
    * [Create-C-Project](introduction/create-c-project.md)
    * [Run-Program](introduction/run-program.md)
 * [Variable-Const](variable/README.md)
